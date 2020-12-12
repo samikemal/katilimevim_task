@@ -11,6 +11,6 @@ Ardından Pascal üçgenini kullanabilmek için gerekli çeşitli fonksiyonlar o
 - ve yine ana döngü içerisinde kontrol amaçlı kullanılan her adımda kaç adet toplam elde edilmesi gerektiğini hesaplayan algoritma
 ###
 ###
-Ana döngü olarak bahsattiğimiz iç içe döngü üzerinde gerçekleşen ve kontrollerini binom serilerindeki elemanları
+Ana döngü olarak bahsettiğimiz iç içe döngü üzerinde gerçekleşen ve kontrollerini binom serilerindeki elemanları
 tekrar sayısı olarak ele alan ve bu tekrarları bir sonraki adıma kullanılması için toplam listesi oluşturmak adına
 kullanan basit bir algoritmadır.
